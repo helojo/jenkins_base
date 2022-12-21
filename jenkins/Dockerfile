@@ -29,4 +29,4 @@ USER root
 
 # bypass normal entrypoint and use custom one
 #ENTRYPOINT ["/sbin/tini", "--", "/usr/local/bin/jenkins.sh"]
-ENTRYPOINT ["/sbin/tini", "--", "/docker-entrypoint.sh"]
+ENTRYPOINT ["/usr/bin/tini", "--", "/docker-entrypoint.sh"]
