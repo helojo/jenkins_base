@@ -1,0 +1,29 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-01-04 08:56:43.405 UTC</timestamp>
+  <md5sum>c72f7fdd8d12e9705b97b657a0c80a4a</md5sum>
+  <fileName>Credential id=06ce32d6-dfff-42d4-abbe-87c843313f74 name=xuyong.zqgame/******</fileName>
+  <usages>
+    <entry>
+      <string>test_api_all_in_one</string>
+      <ranges>8</ranges>
+    </entry>
+    <entry>
+      <string>test_admin_all_in_one</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>test_admin_all_in_one2</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>test_vue_all_in_one</string>
+      <ranges>6-9</ranges>
+    </entry>
+    <entry>
+      <string>test_dev_all_in_one</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

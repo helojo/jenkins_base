@@ -2,7 +2,7 @@
 .env
 
 # jenkins files
-jenkins_home
+#jenkins_home
 
 # logging output
 logs
